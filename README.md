@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @shubham-attri
-- 👀 I’m interested in brainstorming ideas and coding them to existence, I am interested in blockchain, NFT projects. 
+- 👀 I’m interested in brainstorming ideas and coding them to existence, I am interested in Web3, Web Deveopment, Artificial Intelligence, Machnin Learning, 
+-   UI/UX
 - 🌱 I’m currently learning Solidity and JavaScipt.
-- 💞️ I’m looking to collaborate on project code written in HTML, java, python, C/CPP and projects using blockchain. I have understanding of UI/UX as well.   
+- 💞️ I’m looking to collaborate on projects on AI and ML and Blockchain.    
 - 📫 Reach me on Discord Attri#8355 , Twitter attri_shubham_ and reddit pixyattri_eth
 
 <!---
