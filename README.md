@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @shubham-attri
-- 👀 I’m interested in brainstorming ideas and coding them to existence, I am interested in Web3, Web Deveopment, Artificial Intelligence, Machnin Learning, 
--   UI/UX
-- 🌱 I’m currently learning Solidity and JavaScipt.
-- 💞️ I’m looking to collaborate on projects on AI and ML and Blockchain.    
-- 📫 Reach me on Discord Attri#8355 , Twitter attri_shubham_ and reddit pixyattri_eth
+- 👋 Welcome to my GitHub profile! I am Shubham Attri.
+- 🫶 Skilled Full Stack developer in a wide range of programming languages and comfortable working on both front-end and back-end development.
+- 👨‍💻 Strong foundation in UI/UX design, enabling me to create visually appealing and user-friendly applications.
+- 👀 I have keen interest in technologies such as artificial intelligence, machine learning, web3, and blockchain.
+- 🌱 Always up for a challenge and committed to staying current with the latest technological developments.
+- 💞️ Don't hesitate to get in touch to collaborate on exciting projects or to bounce ideas off each other.    
+- 🪢 Have a look around to see what I've been up to and what I'm capable of.
+- 📫 Reach me on Discord - Attri#8355 , [Twitter](https://twitter.com/attri_shubham_) [linkedin](https://www.linkedin.com/in/shubham-attri-82bb08229/)
+     [Email](attrishubhamwork@gmail.com) - attrishubhamwork@gmail.com
 
 <!---
 shubham-attri/shubham-attri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
