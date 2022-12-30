@@ -8,7 +8,11 @@
 - 📫 Send me Gm on Discord - Attri#8355 or [Twitter](https://twitter.com/attri_shubham_) attri_shubham_
 - ✉️ Mail me on attrishubhamwork@gmail.com 
 - 👨‍💻 Here is link to my [linkedin](https://www.linkedin.com/in/shubham-attri-82bb08229/) for qualifications.
-     
+<!-- - ⭐️ My Stats
+
+   [![Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-attri&layout=compact)](https://github.com/shubham-attri)  
+   [![Readme Stats](https://github-readme-stats.vercel.app/api/stars/?username=shubham-attri&layout=compact)](https://github.com/shubham-attri)     
+   [![Readme Stats](https://github-readme-stats.vercel.app/api/commits/?username=shubham-attri&layout=compact)](https://github.com/shubham-attri) -->
 
 <!---
 shubham-attri/shubham-attri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
